@@ -4,3 +4,11 @@ We talked about the steps that we could possibly take to deploy a website. I wan
 
 <!-- Answer Down Here -->
 
+1. Install all needed javascript extentions such as express and mongoose
+2. Layout the files in the folders 'Routes' and 'views' which handle the page routing and the ejs, respectivly. 
+3. use an app.js file for all the initialization of the javascript extensions, as well as starting the server. 
+4. Purchase a Domain
+5. Find a server hosting service to use, such as AWS or Azure.
+6. Use Apache web server to handle the load management.
+7. upload the files to the server
+8. ssh into the server and start it from the command line
